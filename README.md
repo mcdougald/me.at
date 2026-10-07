@@ -7,7 +7,7 @@
 
 # me.at
 
-Trevor McDougald, full-stack engineer. 6+ years of building software people come back to.
+I'm a full-stack engineer with 7+ years of building software people come back to.
 
 me.at is my portfolio home page and the front door of the `*.me.at` family of apps. It is one long landing page: who I am, where I have worked, what I have built, what people I have worked with say, my latest writing, and a directory of every public sibling site in the network. Long-form writing lives on read.me.at, and project cards link there.
 
@@ -35,7 +35,7 @@ me.at is my portfolio home page and the front door of the `*.me.at` family of ap
 
 ## The me.at family
 
-me.at is the hub of the `*.me.at` network: a family of small sites and products by Trevor McDougald, each on its own subdomain, most named so the address reads as a sentence ("read me at", "find me at", "hire me at"). They share one design system, one account, and one app shell (header, footer, auth, locales and legal pages), and they are built in a single private monorepo. Apps get a public-facing GitHub repository that carries their README and screenshots.
+me.at is the hub of the `*.me.at` network: a family of small sites and products I build, each on its own subdomain, most named so the address reads as a sentence ("read me at", "find me at", "hire me at"). They share one design system, one account, and one app shell (header, footer, auth, locales and legal pages), and they are built in a single private monorepo. Apps get a public-facing GitHub repository that carries their README and screenshots.
 
 Some public members of the family:
 
