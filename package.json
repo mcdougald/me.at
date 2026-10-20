@@ -1,0 +1,7 @@
+{
+  "name": "me-at",
+  "description": "My portfolio site and the front door to my self-hosted *.me.at app family",
+  "homepage": "https://me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
